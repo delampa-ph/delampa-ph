@@ -1,9 +1,10 @@
 # 🇵🇭 Derek Lampa
 
-**`delampa-ph`**
-### 📋About Me
+Also known as **`delampa-ph`** in Github. This account is used to share, distribute, build multiple projects, whether be it for showcase or personal work.
+### 📋 About Me
 - 📖Programmer and an aspiring Game Developer.
-- 🛠️Dabble with many programming languages for small, hobbiyst experiments.
+- 🖌️Digital Artist in a spare time, as a hobby.
+- 🛠️Dabble with many programming languages for small, fun experiments.
 - 👣Just trying to navigate through the way of life.
 
 **For any inquiry, please send an [📨email](mailto:lampaderek@gmail.com?subject=Inquiry).**
@@ -12,7 +13,7 @@
 
 ### 🔗 My Links
 
-[🚧Personal Page](tba) | [🚧Resume](tba) | [🚧Portfolio](tba)
+[🏡Personal Page](https://delampa-ph.github.io/) | [🚧Resume](tba) | [🚧Portfolio](tba)
 
 #
 
