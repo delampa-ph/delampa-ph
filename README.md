@@ -13,7 +13,7 @@ Also known as **`delampa-ph`** in Github. This account is used to share, distrib
 
 ### 🔗 My Links
 
-[🏡Personal Page](https://delampa-ph.github.io/) | [🚧Resume](tba) | [🚧Portfolio](tba)
+[🏡Personal Page](https://delampa-ph.github.io/) | [📄Resume](https://delampa-ph.github.io/resume.html) | [🧰Portfolio](https://delampa-ph.github.io/portfolio.html)
 
 #
 
